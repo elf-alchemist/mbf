@@ -1,0 +1,9 @@
+{
+	"files.associations": {
+		"qapplication": "cpp",
+		"qwidget": "cpp",
+		"qpushbutton": "cpp",
+		"AM_MAP.C": "cpp",
+		"D_DEH.C": "cpp"
+	}
+}
